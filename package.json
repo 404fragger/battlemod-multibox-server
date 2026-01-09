@@ -1,7 +1,7 @@
 {
 	"name": "battlemod-multibox-server",
 	"version": "1.0.0",
-	"main": "main.cjs",
+	"main": "index.js",
 	"bin": "main.cjs",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
